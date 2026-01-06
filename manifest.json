@@ -1,18 +1,12 @@
 {
-  "name": "NameKit",
-  "id": "1587760999697718509",
+  "name": "NameKit - Figma Naming Tool",
+  "id": "namekit-plugin",
   "api": "1.0.0",
-  "main": "dist/code.js",
-  "capabilities": [],
-  "enableProposedApi": false,
+  "main": "dist/plugin.js",
+  "ui": "dist/index.html",
+  "editorType": ["figma"],
   "documentAccess": "dynamic-page",
-  "editorType": [
-    "figma"
-  ],
-  "ui": "dist/ui.html",
   "networkAccess": {
-    "allowedDomains": [
-      "none"
-    ]
+    "allowedDomains": ["none"]
   }
 }

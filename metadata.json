@@ -1,0 +1,5 @@
+{
+  "name": "NameKit - Figma Naming Tool",
+  "description": "A comprehensive Figma plugin for batch renaming components, styles, and variables with case normalization and search-replace functionality.",
+  "requestFramePermissions": []
+}
